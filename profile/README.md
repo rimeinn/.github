@@ -11,12 +11,13 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Here at **RimeInn**, we do **Rime Innovation**. We explore and experiment, search and research, and then push forward the state-of-the-art of typing technologies for various human languages, mostly based on [Rime](https://github.com/rime) and for [CJK](https://en.wikipedia.org/wiki/CJK_characters).
+Here at **RimeInn**, we do **Rime Innovation**. We explore and experiment, search and research, and advance the state-of-the-art in typing technologies for a variety of human languages, with a particular focus on [Rime](https://github.com/rime) and [CJK](https://en.wikipedia.org/wiki/CJK_characters) languages.
 
-- We create, maintain, and freely distribute innovative and high-quality input methods.
-- We collaborate closely with upstream projects to actualize the high standards set by our projects, and also to benefit the broader community.
-- We study and research optimal typing technologies, and make tools for IME analysis and construction.
+We:
+- Create, maintain, and freely distribute **innovative and high-quality input methods**.
+- **Collaborate closely with upstream projects** to uphold the high standards set by our initiatives, benefiting both our community and the broader ecosystem.
+- Study and research **cutting-edge typing technologies**, providing tools for IME (Input Method Editor) construction and analysis.
 
-RimeInn is a community of like-minded people -- we are not only skilled practitioners but also fearless visionaries. We welcome _your_ participation!
+RimeInn is a vibrant community of like-minded individuals -- we are not only skilled practitioners but also fearless visionaries. We welcome _your_ participation!
 
 - [List of our projects](https://github.com/orgs/rimeinn/repositories)
