@@ -15,8 +15,9 @@ Here at **RimeInn**, we do **Rime Innovation**. We explore and experiment, searc
 
 We:
 - Create, maintain, and freely distribute **innovative and high-quality input methods**.
+- Collect, fine-tune, and freely distribute **high-quality dictionaries** compiled by linguists.
 - **Collaborate closely with upstream projects** (including [Rime](https://rime.im/) and [Fcitx](https://fcitx-im.org/)) to uphold the high standards set by our initiatives, benefiting both our community and the broader ecosystem.
-- Study and research **cutting-edge typing technologies**, providing tools for IME (Input Method Editor) construction and analysis.
+- Study and research **cutting-edge typing technologies**, providing tools for input method construction and analysis.
 
 RimeInn is a vibrant community of like-minded individuals -- we are not only skilled practitioners but also fearless visionaries. We welcome _your_ participation!
 
