@@ -9,7 +9,7 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
 
 Here at **RimeInn**, we do **Rime Innovation**. We explore and experiment, search and research, and advance the state-of-the-art in typing technologies for a variety of human languages, with a particular focus on the [Rime](https://rime.im/) engine and [CJK](https://en.wikipedia.org/wiki/CJK_characters) languages.
 
@@ -22,3 +22,4 @@ We:
 RimeInn is a vibrant community of like-minded individuals -- we are not only skilled practitioners but also fearless visionaries. We welcome _your_ participation!
 
 - [List of our projects](https://github.com/orgs/rimeinn/repositories)
+-->
