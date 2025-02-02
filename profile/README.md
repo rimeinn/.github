@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+RimeInn 是圍繞 [Rime 中州韻輸入法引擎](https://rime.im) 建立的、以 Rime 方案開發者爲核心的社區。
+
+我們主要開發與維護：
+
+- 📚 基於 Rime 的高級中文輸入方案
+- ⚙️ 中文輸入方案的設計工具和分析工具
+- 🖥 支持 Rime 方案開發的軟件和文檔
+
 <!--
 
 **Here are some ideas to get you started:**
